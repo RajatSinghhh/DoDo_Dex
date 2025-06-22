@@ -79,8 +79,7 @@ This repository aggregates the **individual vulnerability reports** uncovered du
 
 ### ✍️ Contributing
 
-If you identify additional vulnerabilities or improvements, please open an issue or submit a pull request. Security disclosures can be sent directly to *[security@auditdrop.com](mailto:security@auditdrop.com)*.
+If you identify additional vulnerabilities or improvements, please open an issue or submit a pull request. Security disclosures can be sent directly to *[rajatsingh321001@gmail.com]*.
 
 ---
 
-© <?= date('Y') ?> <?= $ownerName ?> – All rights reserved.
